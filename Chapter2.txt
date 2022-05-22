@@ -1,2 +1,20 @@
 Do I really like fried fish? 
-Thats a lie i don't really like fried fish
+Thats a lie i don't really like fried fi
+ so if i want to change directory ill do 
+cd folder name
+to make a new folder/directory ill do
+mkdir folder/directory name 
+to make a new file in my folder ill use
+touch file name
+to open the file ill do 
+start and file name
+to open the git interface to start commiting ill do 
+git init 
+to add the file to the staging area so it can be tracked 
+ill do git add then file name 
+or git add . to add all files 
+then next ill needed to commit
+ill do git commit -m(the message i want to put in the comit)
+to check if its successfully commited ill do git status
+to check the details of the file ill do
+git log
