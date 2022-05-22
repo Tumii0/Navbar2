@@ -17,4 +17,5 @@ then next ill needed to commit
 ill do git commit -m(the message i want to put in the comit)
 to check if its successfully commited ill do git status
 to check the details of the file ill do
-git log
+git log.
+i cant remeber what i learnt again
